@@ -1,0 +1,9 @@
+# raw data (too large for GitHub — see data/README.md for download link)
+data/*.csv
+
+# python
+__pycache__/
+*.pyc
+
+# large intermediate artifact (predictions cache for plotting)
+outputs/predictions.npz
